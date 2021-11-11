@@ -1,0 +1,19 @@
+{
+  "name": "devr/wp-utils",
+  "type": "library",
+  "license": "MIT",
+  "description": "Dev utils",
+  "keywords": ["utils", "dev", "wordpress"],
+  "homepage": "https://github.com/pldevr/wp-utils",
+  "require": {
+    "php": ">=8.0"
+  },
+  "config": {
+    "optimize-autoloader": true
+  },
+  "autoload": {
+    "psr-4": {
+      "Devr\\Utils\\": "src/"
+    }
+  }
+}

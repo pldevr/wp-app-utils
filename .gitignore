@@ -1,0 +1,12 @@
+# IDE
+/.idea
+/.vscode
+
+# Dependencies
+/vendor
+
+# Logs
+*.log
+
+# System files
+*.DS_Store
