@@ -1,8 +1,8 @@
 {
-  "name": "devr/wp-utils",
+  "name": "devr/wp-app-utils",
   "type": "library",
   "license": "MIT",
-  "description": "Dev utils",
+  "description": "App utils",
   "keywords": ["utils", "dev", "wordpress"],
   "homepage": "https://github.com/pldevr/wp-utils",
   "require": {
